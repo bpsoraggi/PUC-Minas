@@ -1,0 +1,14 @@
+/**
+ * Calcula a soma de três bits.
+ */
+
+CHIP FullAdder{
+    IN a, b, c;
+    OUT sum, car;
+
+    PARTS:
+    // Implemente aqui:
+    HalfAdder(a=a, b=b, sum=Sum1, car=C1);
+    HalfAdder(a=Sum1, b=c, sum=sum, car=C2);
+    Or(a=C1, b=C2, out=car);
+}

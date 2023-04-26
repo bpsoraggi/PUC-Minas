@@ -1,0 +1,13 @@
+/**
+ * Calcula a soma de dois bits.
+ */
+
+CHIP HalfAdder {
+    IN a, b;
+    OUT sum, car;
+
+    PARTS:
+    // Implemente aqui:
+    Xor(a=a, b=b, out=sum);
+    And(a=a, b=b, out=car);   
+}
