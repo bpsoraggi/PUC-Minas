@@ -1,0 +1,265 @@
+.header {
+    background-color: #6200ee;
+    margin-bottom: 2%;
+}
+
+.navbar-brand {
+    width: 5%;
+}
+
+#barra {
+    border-radius: 25px;
+    border: none;
+}
+
+#pesquisar {
+    border-radius: 15px;
+    border: none;
+    background-color: #fff;
+    color: #1f0566;
+    margin-left: 5px;
+}
+
+@media screen and (max-width: 767px) {
+    .navbar-brand {
+        width: 40%;
+    }
+
+    .header {
+        margin-bottom: 0%;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .navbar-brand {
+        width: 25%;
+    }
+
+    .header {
+        margin-bottom: 0%;
+    }
+}
+
+body {
+    background-color: #e5e5e5;
+}
+
+.titulo h1 {
+    float: left;
+}
+
+.carrossel_lancamentos {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: #fff;
+}
+
+.carrossel {
+    background-color: #fff;
+}
+
+.videos_carrossel {
+    border-color: black;
+    border-radius: 5%;
+    width: 100%;
+    height: 450px;
+    padding: 5%;
+}
+
+.carousel-inner {
+    height: 50%;
+    padding-bottom: 5%;
+    color: #000;
+}
+
+.carousel-inner p {
+    padding-top: 1%;
+}
+
+.imagemCarrossel {
+    border-color: #000;
+    border-radius: 10%;
+    width: 80%;
+    padding: 5%;
+    float: right;
+}
+
+.titulo_titulo {
+    color: #1f0566;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.destaque_titulo {
+    color: #1f0566;
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+
+.em_destaque {
+    margin-top: 5%;
+}
+
+.destaque_botao {
+    float: right;
+}
+
+.card {
+    color: #000;
+    background-color: #fff;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin: 2%;
+    max-width: 22%;
+    max-height: 5%;
+}
+
+.card img {
+    border-radius: 8%;
+}
+
+@media screen and (max-width: 767px) {
+    .card {
+        margin: 10%;
+        max-width: 70%;
+        max-height: 70%;
+    }
+
+    .card img {
+        width: 100%;
+    }
+}
+
+.botao_fim_destaque button {
+    float: right;
+}
+
+.entrevistas {
+    padding: 5%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    background-color: #fff;
+}
+
+.entrevistas_titulo h1 {
+    color: #1f0566;
+    padding-bottom: 5%;
+}
+
+.videos_entrevistas {
+    width: 90%;
+    height: 200px;
+    border-radius: 5%;
+}
+
+.titulo_entrevistas {
+    margin-top: 5%;
+}
+
+.texto_entrevistas {
+    padding-bottom: 5%;
+}
+
+.entrevistas_cards {
+    color: #000;
+}
+
+@media screen and (max-width: 767px) {
+    .entrevistas {
+        margin-top: 25%;
+    }
+
+    .entrevista_2 {
+        display: none;
+    }
+
+    .entrevista_3 {
+        display: none;
+    }
+
+    .titulo_entrevistas {
+        margin-top: 2%;
+    }
+
+    .videos_entrevistas {
+        width: 100%;
+        height: 50%;
+        border: none;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .entrevista_3 {
+        display: none;
+    }
+}
+
+.btn {
+    color: #fff;
+    background-color: #bb86fc;
+    border: none;
+}
+
+.btn:hover {
+    background-color: #3700b3;
+}
+
+.row h1 {
+    color: #6200ee;
+}
+
+.row i {
+    color: #3700b3;
+}
+
+a {
+    color: #bb86fc;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #3700b3;
+    text-decoration: none;
+}
+
+.novidades_sobre {
+    color: #000;
+}
+
+.materias {
+    padding: 2%;
+}
+
+.materia_3 {
+    padding: 2%;
+}
+
+.imagens_novidades {
+    width: 100%;
+    height: 100%;
+    border-radius: 5%;
+}
+
+.redes i {
+    padding-right: 2%;
+}
+
+@media screen and (max-width: 767px) {
+    .texto_materia {
+        padding-top: 5%;
+        padding-bottom: 10%;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .texto_materia {
+        padding-top: 2%;
+    }
+}
+
+footer {
+    color: #fff;
+    background-color: #1f0566;
+    padding: 1%;
+    text-align: center;
+}
