@@ -1,4 +1,4 @@
-# 📚 AEDs
+# 📚 AEDs3
 ### Disciplina de Algoritmo e Estrutura de Dados III
 -----------
 🍎 **Professor:** Hayala Nepomuceno Curto
