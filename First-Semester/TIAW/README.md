@@ -1,5 +1,5 @@
 # 📚 TIAW
-### Disciplina de Trabalho Interdisciplinar: Aplicações Web
+### Interdisciplinary Projects: Web Applications
 -----------
 🍎 **Professor:** Walisson Ferreira
 
