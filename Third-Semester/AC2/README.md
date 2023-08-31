@@ -1,5 +1,5 @@
 # 📚 AC2
-### Disciplina de Arquitetura de Computadores II
+### Computer Architecture II
 -----------
 🍎 **Professor:** Cristiano Neves Rodrigues
 
