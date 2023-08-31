@@ -1,5 +1,5 @@
 # 📚 AEDs1
-### Disciplina de Algoritmo e Estrutura de Dados I
+### Algorithms and Data Structures I
 -----------
 🍎 **Professor:** Cristiano Silva
 
