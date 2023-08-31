@@ -1,8 +1,8 @@
 # 📚 TI3
-### Disciplina de Trabalho Interdisciplinar III
+### Interdisciplinary Projects III
 -----------
 <details>
-<summary>🍎 Professores:</summary>
+<summary>🍎 Professors:</summary>
 
 - José Wilson da Costa
 - Jeanne Louize Emygdio
