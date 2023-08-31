@@ -1,5 +1,5 @@
 # 📚 DIW
-### Disciplina de Desenvolvimento de Interfaces Web
+### Web Interface Development
 -----------
 🍎 **Professor:** Rommel Vieira Carneiro
 
