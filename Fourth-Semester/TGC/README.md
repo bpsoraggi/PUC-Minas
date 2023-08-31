@@ -1,5 +1,5 @@
 # 📚 TGC
-### Disciplina de Teoria dos Grafos e Computabilidade
+### Theory of Graphs and Computability
 -----------
 🍎 **Professor:** Zenilton Kleber Gonçalves do Patrocínio Júnior
 
