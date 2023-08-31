@@ -1,8 +1,8 @@
 # 📚 AEDs2
-### Disciplina de Algoritmo e Estrutura de Dados II
+### Algorithms and Data Structures II
 -----------
 <details>
-<summary>🍎 Professores:</summary>
+<summary>🍎 Professors:</summary>
 
 - Rodrigo Richard Gomes
 - Felipe Domingos da Cunha
