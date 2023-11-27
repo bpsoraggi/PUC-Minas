@@ -1,9 +1,18 @@
-# 📚 AEDs1
+# AEDs1
 ### Algorithms and Data Structures I
------------
+
 🍎 **Professor:** Cristiano Silva
 
+-----------
 
-<img alt="GitHub Language Count" src="https://img.shields.io/badge/languages-1-blue" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/bpsoraggi/PUC-Minas" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/bpsoraggi/PUC-Minas" />
+<h2>Contents</h2>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+- List 01: **Condicionals**
+- List 02: **Repetition**
+- List 03: **Modularization**
+- List 04: **Recursion**
+- List 05: **Pointers**
+- List 06: **Data Structures**
+- List 07: **Structs**
+- List 08: **Files**
+- List 09: **Classes**
