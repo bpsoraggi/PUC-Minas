@@ -103,5 +103,5 @@ The user would be able to save messages in folders that they created themselves,
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Credit
-Ou group was composed by myself, [@camilahl](https://github.com/camilahl) and Bernardo D'Avila.
+Ou group was composed by myself, [@camilahl](https://github.com/camilahl) and [@bernardodavilaa](https://github.com/bernardodavilaa).
 
