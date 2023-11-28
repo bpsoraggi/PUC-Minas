@@ -11,6 +11,8 @@
 
 import java.io.File;
 import java.io.RandomAccessFile;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -41,9 +43,9 @@ public class DisjointPaths {
     // --------------- Construtor ---------------
     public DisjointPaths(String nomeArquivo) {
         try {
-            // String localDir = System.getProperty("user.dir");
-            // String arq = localDir + "\\Grafos\\" + nomeArquivo + ".txt";
-            String arq = nomeArquivo + ".txt";
+            Path dir = Paths.get(System.getProperty("user.dir"));
+            String arq = dir + "\\4th-Semester\\TGC\\Graphs\\" + nomeArquivo + ".txt";
+            // String arq = nomeArquivo + ".txt";
             this.arquivo = new File(arq);
             this.arquivoScanner = new Scanner(arquivo);
 

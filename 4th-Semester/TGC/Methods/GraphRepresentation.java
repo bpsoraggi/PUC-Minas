@@ -12,6 +12,8 @@
  */
 
 import java.io.File;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.Scanner;
 
 class GraphRepresentation {
@@ -35,8 +37,9 @@ class GraphRepresentation {
         try {
             // String localDir = System.getProperty("user.dir");
             // nomeArquivo = localDir + "\\Grafos\\" + nomeArquivo + ".txt";
-            nomeArquivo = nomeArquivo + ".txt";
-            this.arquivo = new Scanner(new File(nomeArquivo));
+            Path dir = Paths.get(System.getProperty("user.dir"));
+            String arq = dir + "\\4th-Semester\\TGC\\Graphs\\" + nomeArquivo + ".txt";
+            this.arquivo = new Scanner(new File(arq));
 
             this.n = arquivo.nextInt();
             this.m = arquivo.nextInt();
