@@ -13,7 +13,7 @@ This project was finalized in 2021, but the links used in it were dynamic, thus 
 ## Showcase
 ### Home page
 <div align="center">
-  <img src="https://github.com/bpsoraggi/PUC-Minas/blob/main/First-Semester/DIW/Images/home.png?raw=true" alt="image showing the website's home page" align="left" width="50%" height="50%"">
+  <img src="https://github.com/bpsoraggi/PUC-Minas/blob/main/1st-Semester/DIW/Images/home.png?raw=true" alt="image showing the website's home page" align="left" width="50%" height="50%"">
   <div align="left">
    <br><br>
    &nbsp &nbsp &nbsp Here is a simple photo of the homepage, where the main feature <br>
@@ -26,7 +26,7 @@ This project was finalized in 2021, but the links used in it were dynamic, thus 
 
 ### Highlights
 <div align="center">
- <img src="https://github.com/bpsoraggi/PUC-Minas/blob/main/First-Semester/DIW/Images/highlights.png?raw=true" alt="image showing the website's hightlights page" align="right" width="50%" height="50%"">
+ <img src="https://github.com/bpsoraggi/PUC-Minas/blob/main/1st-Semester/DIW/Images/highlights.png?raw=true" alt="image showing the website's hightlights page" align="right" width="50%" height="50%"">
   <div align="left">
    <br><br>
    A highlights page containing the title, release date and rating for the movie, accompanied by a link that leads to a page where you can read more about that movie.
@@ -38,7 +38,7 @@ This project was finalized in 2021, but the links used in it were dynamic, thus 
 
 ### Trailers
 <div align="center">
-  <img src="https://github.com/bpsoraggi/PUC-Minas/blob/main/First-Semester/DIW/Images/trailers.png?raw=true" alt="image showing the website's trailers page" align="left" width="50%" height="50%"">
+  <img src="https://github.com/bpsoraggi/PUC-Minas/blob/main/1st-Semester/DIW/Images/trailers.png?raw=true" alt="image showing the website's trailers page" align="left" width="50%" height="50%"">
   <div align="left">
    <br><br>
    &nbsp &nbsp &nbsp A small section dedicated to showcasing trailers <br>
@@ -51,7 +51,7 @@ This project was finalized in 2021, but the links used in it were dynamic, thus 
 
 ### Highlights
 <div align="center">
- <img src="https://github.com/bpsoraggi/PUC-Minas/blob/main/First-Semester/DIW/Images/news.png?raw=true" alt="image showing the website's news page, as well as a simple about section to the right and socials right underneath" align="right" width="50%" height="50%"">
+ <img src="https://github.com/bpsoraggi/PUC-Minas/blob/main/1st-Semester/DIW/Images/news.png?raw=true" alt="image showing the website's news page, as well as a simple about section to the right and socials right underneath" align="right" width="50%" height="50%"">
   <div align="left">
    <br><br>
    At the end, we have a brief section dedicated to news regarding upcoming and/or grossing movies. Next, a small about section to describe the project and some placeholder icons for socials.
