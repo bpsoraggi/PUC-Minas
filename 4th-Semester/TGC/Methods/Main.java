@@ -41,7 +41,8 @@ public class Main {
             System.out.format(leftAlignFormat, ANSI_RED + "0" + ANSI_RESET, "sair");
             System.out.format(leftAlignFormat, ANSI_YELLOW + "1" + ANSI_RESET, "Representacao de Grafo");
             System.out.format(leftAlignFormat, ANSI_GREEN + "2" + ANSI_RESET, "Busca em Grafo");
-            System.out.format(leftAlignFormat, ANSI_CYAN + "3" + ANSI_RESET, "Caminhos disjuntos");
+            System.out.format(leftAlignFormat, ANSI_CYAN + "3" + ANSI_RESET, "Caminhos Disjuntos");
+            System.out.format(leftAlignFormat, ANSI_PURPLE + "4" + ANSI_RESET, "Problema de Transporte");
             System.out.format("╚═══════════════════════════════╝%n");
             System.out.print(ANSI_RED + ">> " + ANSI_RESET);
 
