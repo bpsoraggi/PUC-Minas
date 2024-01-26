@@ -1,8 +1,13 @@
-import java.io.*;
+package Semester4.TGC.Methods;
+
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class EdgeConverter {
+public class GraphEdgeConverter {
 
     public static void main(String[] args) {
         String arquivo = "kRegular1000.txt";
